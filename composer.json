@@ -1,5 +1,5 @@
 {
-    "name": "dflydev/doctrine-orm-service-provider",
+    "name": "tetsuzawa/doctrine-orm-service-provider",
     "description": "Doctrine ORM Service Provider",
     "keywords": ["pimple", "cilex", "silex", "doctrine", "orm"],
     "homepage": "http://dflydev.com/projects/doctrine-orm-service-provider/",
